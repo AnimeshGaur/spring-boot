@@ -57,7 +57,7 @@
 		<dropwizard-metrics.version>4.0.5</dropwizard-metrics.version>
 		<ehcache.version>2.10.6</ehcache.version>
 		<ehcache3.version>3.6.3</ehcache3.version>
-		<embedded-mongo.version>2.2.0</embedded-mongo.version>
+		<embedded-mongo.version>4.12.4</embedded-mongo.version>
 		<flyway.version>5.2.4</flyway.version>
 		<freemarker.version>2.3.28</freemarker.version>
 		<elasticsearch.version>6.5.4</elasticsearch.version>
@@ -186,7 +186,7 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.3.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>9.0.16</tomcat.version>
+		<tomcat.version>9.0.107</tomcat.version>
 		<unboundid-ldapsdk.version>4.0.9</unboundid-ldapsdk.version>
 		<undertow.version>2.0.23.Final</undertow.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
